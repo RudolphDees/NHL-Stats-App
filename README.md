@@ -9,3 +9,13 @@ Version 1.0.0 (11/30/2021)
 
 This was the first iteration of the application that was connected to my Azure SQL server. Previously It was connected to my MS SQL server which didnt allow remote connection.
 After transfering to a cloud based SQL solution the speed of the application slowed down considerably so the next update will be focusing on optimizing how the application interacts with my database.
+
+Version 2.0.0
+
+I transfered my project to a WPF format on .NET Core since it looks better, is more customizable, and more relevant to potential employers. The transfer only took a few hours and has been much more interesting to use.
+
+After Transitioning to WPF I put in 15-20 hours over the weekend to add the feature I've been working toward from day 1. While it still has some bugs, I added the Shot Map Page which allows you to plot out all of the shots that happened in any game in the 2021-2022 season. It is fully color coded to the team colors and displays the points on an image of a hockey rink. I thought getting to this point would take me a month or two and not a few weeks so I am excited to continue to expand and improve the application.
+
+Along with the Shot Map page I also set it to automatically update most of the data if it hasnt been updated in the last 24 hours. I will be improving this as well in the near future.
+
+My goals for the next update are working out the bugs of the shot map page, adding a help button for people that have never used the application before, and expanding the team stats page to reflect top scorers on the team. 
