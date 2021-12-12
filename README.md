@@ -19,3 +19,11 @@ After Transitioning to WPF I put in 15-20 hours over the weekend to add the feat
 Along with the Shot Map page I also set it to automatically update most of the data if it hasnt been updated in the last 24 hours. I will be improving this as well in the near future.
 
 My goals for the next update are working out the bugs of the shot map page, adding a help button for people that have never used the application before, and expanding the team stats page to reflect top scorers on the team. 
+
+Version 2.1 (12/12/2021)
+
+I accomplished all my goals I set in Version 2.0 as well as adding a Heat Map that displays the frequency of where plays occur on the ice.
+
+I touched up some of the looks so that the project looks more uniform across windows and plan on continuing to make the project look more profesional and clean. 
+
+As of right now I am unsure of what I want to do next in terms of data visualization. Potentially something involving graphing data over time but I am not sure yet. Stay Tuned!
