@@ -27,3 +27,7 @@ I accomplished all my goals I set in Version 2.0 as well as adding a Heat Map th
 I touched up some of the looks so that the project looks more uniform across windows and plan on continuing to make the project look more profesional and clean. 
 
 As of right now I am unsure of what I want to do next in terms of data visualization. Potentially something involving graphing data over time but I am not sure yet. Stay Tuned!
+
+Update (3/16/2023) 
+
+The database is no longer up. I achieved all that I wanted to and no longer felt the need to continue paying for the SQL server. 
